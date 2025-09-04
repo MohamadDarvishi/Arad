@@ -1,0 +1,102 @@
+@font-face {
+  font-family: "Arad";
+  src: url("font-files/Arad-Thin.eot");
+  src: local("Arad Thin"), local("Arad-Thin"),
+    url("font-files/Arad-Thin.eot?#iefix") format("embedded-opentype"),
+    url("font-files/Arad-Thin.woff2") format("woff2"),
+    url("font-files/Arad-Thin.woff") format("woff"),
+    url("font-files/Arad-Thin.ttf") format("truetype"),
+    url("font-files/Arad-Thin.svg#Arad-Thin") format("svg");
+  font-weight: 100;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Arad";
+  src: url("font-files/Arad-ExtraLight.eot");
+  src: local("Arad ExtraLight"), local("Arad-ExtraLight"),
+    url("font-files/Arad-ExtraLight.eot?#iefix") format("embedded-opentype"),
+    url("font-files/Arad-ExtraLight.woff2") format("woff2"),
+    url("font-files/Arad-ExtraLight.woff") format("woff"),
+    url("font-files/Arad-ExtraLight.ttf") format("truetype"),
+    url("font-files/Arad-ExtraLight.svg#Arad-ExtraLight") format("svg");
+  font-weight: 200;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Arad";
+  src: url("font-files/Arad-Light.eot");
+  src: local("Arad Light"), local("Arad-Light"),
+    url("font-files/Arad-Light.eot?#iefix") format("embedded-opentype"),
+    url("font-files/Arad-Light.woff2") format("woff2"),
+    url("font-files/Arad-Light.woff") format("woff"),
+    url("font-files/Arad-Light.ttf") format("truetype"),
+    url("font-files/Arad-Light.svg#Arad-Light") format("svg");
+  font-weight: 300;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Arad";
+  src: url("font-files/Arad-Regular.eot");
+  src: local("Arad Regular"), local("Arad-Regular"),
+    url("font-files/Arad-Regular.eot?#iefix") format("embedded-opentype"),
+    url("font-files/Arad-Regular.woff2") format("woff2"),
+    url("font-files/Arad-Regular.woff") format("woff"),
+    url("font-files/Arad-Regular.ttf") format("truetype"),
+    url("font-files/Arad-Regular.svg#Arad-Regular") format("svg");
+  font-weight: 400;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Arad";
+  src: url("font-files/Arad-Medium.eot");
+  src: local("Arad Medium"), local("Arad-Medium"),
+    url("font-files/Arad-Medium.eot?#iefix") format("embedded-opentype"),
+    url("font-files/Arad-Medium.woff2") format("woff2"),
+    url("font-files/Arad-Medium.woff") format("woff"),
+    url("font-files/Arad-Medium.ttf") format("truetype"),
+    url("font-files/Arad-Medium.svg#Arad-Medium") format("svg");
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Arad";
+  src: url("font-files/Arad-SemiBold.eot");
+  src: local("Arad SemiBold"), local("Arad-SemiBold"),
+    url("font-files/Arad-SemiBold.eot?#iefix") format("embedded-opentype"),
+    url("font-files/Arad-SemiBold.woff2") format("woff2"),
+    url("font-files/Arad-SemiBold.woff") format("woff"),
+    url("font-files/Arad-SemiBold.ttf") format("truetype"),
+    url("font-files/Arad-SemiBold.svg#Arad-SemiBold") format("svg");
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Arad";
+  src: url("font-files/Arad-Bold.eot");
+  src: local("Arad Bold"), local("Arad-Bold"),
+    url("font-files/Arad-Bold.eot?#iefix") format("embedded-opentype"),
+    url("font-files/Arad-Bold.woff2") format("woff2"),
+    url("font-files/Arad-Bold.woff") format("woff"),
+    url("font-files/Arad-Bold.ttf") format("truetype"),
+    url("font-files/Arad-Bold.svg#Arad-Bold") format("svg");
+  font-weight: 700;
+  font-weight: bold;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Arad";
+  src: url("font-files/Arad-ExtraBold.eot");
+  src: local("Arad ExtraBold"), local("Arad-ExtraBold"),
+    url("font-files/Arad-ExtraBold.eot?#iefix") format("embedded-opentype"),
+    url("font-files/Arad-ExtraBold.woff2") format("woff2"),
+    url("font-files/Arad-ExtraBold.woff") format("woff"),
+    url("font-files/Arad-ExtraBold.ttf") format("truetype"),
+    url("font-files/Arad-ExtraBold.svg#Arad-ExtraBold") format("svg");
+  font-weight: 800;
+  font-weight: bolder;
+  font-style: normal;
+}
