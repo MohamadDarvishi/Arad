@@ -6,11 +6,11 @@
 ۱۸ مهر ۱۴۰۴
 
 - طراحی بعضی حروف تغییر کرد.
-![Arad](Documentation/updates/200beta4/1.png)
+![Arad](Documentation/Updates/200beta4/1.png)
 - بعضی از حروف برای بهبود در وزن های سنگین فرضی، در anchor ها و handle ها، دچار تغییراتی شدند که ممکن است تاثیر محسوسی بر طراحی حرف نداشته باشد.
-![Arad](Documentation/updates/200beta4/2.png)
+![Arad](Documentation/Updates/200beta4/2.png)
 - علامت سوال و علامت تعجب در اندازه و طراحی تغییراتی داشتند.
-![Arad](Documentation/updates/200beta4/3.png)
+![Arad](Documentation/Updates/200beta4/3.png)
 - موارد فیچر calt، به rlig منتقل شدند تا فونت عملکرد بهتری در نرم افزار های قدیمی داشته باشد.
 
 - کرنینگ حروف فارسی کاملاً بازنویسی شد.
@@ -18,7 +18,7 @@
 - رفع ایراد جزئی در جایگزین های شرطی «ٹ‍»
 
 - رفع اشکال جایگزین های شرطی مربوط به «ێ‍» و «‍ێ‍»
-![Arad](Documentation/updates/200beta4/4.png)
+![Arad](Documentation/Updates/200beta4/4.png)
 - و تغییرات دیگری، که در اینجا اشاره نشدند.
 
 
