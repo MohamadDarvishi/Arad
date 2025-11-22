@@ -1,5 +1,3 @@
-مخزن فونت بروزرسانی نشده و یه سری مشکل داره
-
 # Arad
 ![Arad](Documentation/1.png)
 ![Arad](Documentation/2.png)
