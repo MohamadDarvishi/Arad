@@ -1,0 +1,16 @@
+Source: fonts-arad
+Section: fonts
+Priority: optional
+Maintainer: Sohrab Behdani <behdanisohrab@riseup.net>
+Rules-Requires-Root: no
+Build-Depends: debhelper-compat (= 13)
+Standards-Version: 2.0.0
+Homepage: https://github.com/MohamadDarvishi/Arad
+
+Package: fonts-arad
+Architecture: all
+Multi-Arch: foreign
+Depends: ${misc:Depends}
+Description: An English-Arabic font
+ An English-Arabic font. یک فونت انگلیسی-عربی (فارسی).
+
