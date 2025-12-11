@@ -1,0 +1,68 @@
+/* نمونه‌ای از قرارگیری فونت متغیر در وب سایت*/
+
+@font-face {
+	font-family: AradVF;
+	font-style: normal;
+	font-weight: normal;
+	src: url('woff2/AradVF.woff2') format('woff2');	
+    font-display: fallback; 
+}
+
+/* نمونه‌ای از قرارگیری فونت استاتیک در وب سایت*/
+@font-face {
+	font-family: Arad;
+	font-style: normal;
+	font-weight: normal;
+	src: url('woff2/Arad-Regular.woff2') format('woff2');	
+    font-display: fallback; 
+}
+
+@font-face {
+	font-family: Arad;
+	font-style: normal;
+	font-weight: 500;
+	src: url('woff2/Arad-Medium.woff2') format('woff2');	
+    font-display: fallback; 
+}
+
+@font-face {
+	font-family: Arad;
+	font-style: normal;
+	font-weight: Bold;
+	src: url('woff2/Arad-Bold.woff2') format('woff2');	
+    font-display: fallback; 
+}
+
+
+
+/* فعال کردن ویژگی های مختلف استایلتیک ست ها*/
+
+.Digit_Substitution_Arabic_and_English_to_Persian {
+font-feature-settings: "ss01";
+}
+
+.Swash_Kaf_and_Gaf {
+font-feature-settings: "ss02";
+}
+
+.Reversed_Yeh {
+font-feature-settings: "ss03";
+}
+
+.Rial_Toman_and_Derham_symbols {
+font-feature-settings: "ss04";
+}
+
+.UI_Numbers_and_Symbols {
+font-feature-settings: "ss05";
+}
+
+/* ویژگی Swash*/
+.sample_tabular_numbers {
+font-feature-settings: "swsh";
+}
+
+/* ویژگی اعداد Tabular*/
+.sample_tabular_numbers {
+font-feature-settings: "tnum";
+}
