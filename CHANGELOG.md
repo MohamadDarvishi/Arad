@@ -1,6 +1,25 @@
 # Arad Changelog
 
 
+## ۲.۳.۰
+
+![Arad](Documentation/Updates/230beta/index.png)
+![Arad](Documentation/Updates/230beta/1.png)
+![Arad](Documentation/Updates/230beta/2.png)
+![Arad](Documentation/Updates/230beta/3.png)
+۱۸ دی ۱۴۰۴
+
+- کوچک کردن اندازۀ فونت (بهبود)
+- اصلاح محور وزنی -> وزن های میانی، ضخیم‎تر از قبل هستند
+- اضافه کردن نویسهٔ ساکن
+- تغییر جزئی اندازۀ دندانه ها
+- تغییر جزئی طراحی حالت نقطۀ یک در وزن مستر ExtraBlack
+- تغییر جزئی در ظاهر اعداد
+- تغییر جزئی اندازه دال
+- اتصال اجزای لیگچر الف‌لام
+- اصلاح اِعراب‌گذاری همزه (ء)
+- رفع مشکل مربوط به nbspace (با تشکر از Mahraam بابت گزارش این مشکل)
+
 ## 2.2.0
 
 ![Arad](Documentation/Updates/220/index.png)
