@@ -4,7 +4,7 @@
 <li><a href="https://mohamaddarvishi.ir/Arad/">صفحۀ اصلی پروژه</a></li>
 <li><a href="https://mohamaddarvishi.ir/Arad/docs/">راهنما</a></li>
 <li><a href="https://mohamaddarvishi.ir/Arad/changelog/">فهرست تغییرات</a></li>
-<li><a href="https://daramet.com/mdarvishi5124">حمایت مالی</a></li>
+<li><a href="https://mohamaddarvishi.ir/Arad/donate/">حمایت مالی</a></li>
 
 ![Arad](Documentation/2.png)
 ![Arad](Documentation/3.png)
