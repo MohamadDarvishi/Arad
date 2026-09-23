@@ -13,6 +13,21 @@
 ## مخزن های مرتبط با فونت آراد
 <li><a href="https://github.com/sajjad85gh/Arad-Font-Module">Arad Font Magisk Module</a></li>
 
+
+## نصب از AUR
+
+فونت آراد در [AUR](https://aur.archlinux.org/packages/arad-fonts) برای دانلود و نصب بر روی توزیع‌های برپایه آرچ در دسترس است.
+
+```bash
+paru/yay -S arad-fonts #Using Aur Helper
+
+git clone https://aur.archlinux.org/arad-fonts
+cd arad-fonts
+makepkg -sic #manual
+
+```
+
+
 ## چه چیز هایی برای انجام وجود دارد؟
 - مواردی که گزارش می‌شود
 
